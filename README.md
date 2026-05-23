@@ -32,4 +32,6 @@ Juventus (avg 82.3) and Napoli (avg 80.0) hold elite squads but operate in marke
 Left-footed wide players create natural width imbalances. Clubs should pay a modest premium for elite left-footed recruits as the supply demand gap makes them structurally undervalued over time.
 
 ## Preview
+https://github.com/emmanuelayuba246-sudo/FIFA-Player-Performance-Data-Analysis-/blob/main/WPS%20Photo(1).png
 
+>click the image above to see a preview of the final dashboard
