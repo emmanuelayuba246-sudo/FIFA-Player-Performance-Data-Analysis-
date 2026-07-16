@@ -1,5 +1,7 @@
 # FIFA-Player-Performance-Data-Analysis-
 
+![Dashboard]()
+
 ## Project Overview
 
 Modern football clubs generate and collect massive amounts of player performance data, including technical abilities, physical attributes, and player potential. Despite the availability of this data, many clubs still underutilize it when making recruitment, training, and tactical decisions.
