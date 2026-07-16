@@ -1,6 +1,6 @@
 # FIFA-Player-Performance-Data-Analysis-
 
-![Dashboard]()
+![Dashboard](WPS Photo(1).png)
 
 ## Project Overview
 
